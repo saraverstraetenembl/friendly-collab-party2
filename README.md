@@ -1,2 +1,4 @@
 # friendly-collab-party2
-Test GitHub
+
+Goal1: Understand how GitHub works
+Goal2: Hopefully gain a new collaborative documentation tool
