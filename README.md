@@ -14,3 +14,6 @@ Hello everyone! This is the "Friendly Collab Party" folder. This project is used
 2. ***Keep her motivated***
 3. Show her how to make websites
 4. Confuse her less about *pull requests*
+
+
+Adding some stuff
