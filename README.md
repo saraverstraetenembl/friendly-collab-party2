@@ -1,4 +1,3 @@
-# friendly-collab-party2
+Friendly Collab Party
 
-Goal1: Understand how GitHub works
-Goal2: Hopefully gain a new collaborative documentation tool
+Understand how GitHub works & Hopefully gain a new collaborative documentation tool
