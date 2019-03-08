@@ -7,3 +7,7 @@ Hello everyone! This is the "Friendly Collab Party" folder. This project is used
 - Learn about versions
 - Lean about collaboration
 - Work with github
+
+#I'd like to add something to this
+1. hello
+2. this is a second point
